@@ -1,12 +1,12 @@
 [GeorgiaSEA Parners](../../../app/?partners=sea)
-# Free Clean Energy
+# Free Clean Energy Clean Energy
 
-Free Clean Energy is recognized for understanding the environmental, social, and economic drivers behind renewable energy.  That’s why we offer both services and products that will continue to meet the growing demand and need for enterprise-wide sustainable practices.  We have helped our clients achieve a vast range of goals in areas such as material waste processing and waste to renewable fuels. 
+Free Clean Energy Clean Energy is recognized for understanding the environmental, social, and economic drivers behind renewable energy.  That’s why we offer both services and products that will continue to meet the growing demand and need for enterprise-wide sustainable practices.  We have helped our clients achieve a vast range of goals in areas such as material waste processing and waste to renewable fuels. 
 
 
 ### 100% Project Financing
 
-Free Clean partners with multi-national groups to combine investment funding for our sustainable infrastructure projects.  Complete project financing does not require any funding from the municipality or host industry. We eliminate all technical, financial and political risk.  
+Free Clean Energy partners with multi-national groups to combine investment funding for our sustainable infrastructure projects.  Complete project financing does not require any funding from the municipality or host industry. We eliminate all technical, financial and political risk.  
 
 ### Project Management
 
@@ -14,7 +14,7 @@ Our highly experienced project management team is dedicated to ensure all your o
 
 ### Engineering
 
-Free Clean's fully automated, fuel processing system is engineered to a utility grade duty cycle.  Our unique process has a vertically integrated design that is modular, scalable and flexible.
+Free Clean Energy's fully automated, fuel processing system is engineered to a utility grade duty cycle.  Our unique process has a vertically integrated design that is modular, scalable and flexible.
 
 ### Consulting
 
@@ -26,5 +26,5 @@ The price of energy is determined by the cost of fuel. Energy created from fossi
 
 ### Project Development
 
-Free Clean offers project flexibility.  Developing your project to maximize economic and environmental benefits.  Project structure options include build, own and operate to complete project financing.  Our experience and expertise will optimize your projects success.
+Free Clean Energy offers project flexibility.  Developing your project to maximize economic and environmental benefits.  Project structure options include build, own and operate to complete project financing.  Our experience and expertise will optimize your projects success.
 
