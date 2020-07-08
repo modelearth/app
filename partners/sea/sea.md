@@ -1,5 +1,5 @@
 
-# GeorgiaSEA Participants 
+# GeorgiaSEA Partners 
 
 - [Waste 2 Solutions](http://waste2solutions.net)  
 
