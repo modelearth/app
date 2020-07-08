@@ -1,10 +1,12 @@
 # Clean Port Energy
 
-Clean Port Energy is recognized for understanding the environmental, social, and economic drivers behind renewable energy.  That’s why we offer both services and products that will continue to meet the growing demand and need for enterprise-wide sustainable practices.  We have helped our clients achieve a vast range of goals in areas such as material waste processing and waste to renewable fuels. 
-
+Mockup using [Free Clean Energy Services](../../?partner=freeclean)  
+<!--
+Resources for firms and community groups working on carbon capture and environmental clean-up.  
+-->
+Clean Port Energy is recognized for understanding the environmental, social, and economic drivers behind renewable energy. That’s why we offer both services and products that will continue to meet the growing demand and need for enterprise-wide sustainable practices. We have helped our clients achieve a vast range of goals in areas such as material waste processing and waste to renewable fuels.  
 
 We're developing a shared-resource approach using a partnership of firms and community groups working on carbon capture and environmental clean-up.  
-
 
 ### 100% Project Financing
 
