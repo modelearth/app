@@ -1,7 +1,7 @@
 [GeorgiaSEA Parners](../../../app/?partners=sea)
-# Free Clean Energy Clean Energy
+# Free Clean Energy
 
-Free Clean Energy Clean Energy is recognized for understanding the environmental, social, and economic drivers behind renewable energy.  That’s why we offer both services and products that will continue to meet the growing demand and need for enterprise-wide sustainable practices.  We have helped our clients achieve a vast range of goals in areas such as material waste processing and waste to renewable fuels. 
+Free Clean Energy is recognized for understanding the environmental, social, and economic drivers behind renewable energy.  That’s why we offer both services and products that will continue to meet the growing demand and need for enterprise-wide sustainable practices.  We have helped our clients achieve a vast range of goals in areas such as material waste processing and waste to renewable fuels. 
 
 
 ### 100% Project Financing
