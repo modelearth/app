@@ -20,7 +20,7 @@ Step 2: Activate with 800° to 950°C 15-psi steam to add pores.
 
 ### Activated Carbon from PET bottle waste
 
-[A 2016 study](https://www.semanticscholar.org/paper/Preparation-of-high-quality-activated-carbon-from-Mendoza-Carrasco-Cuerda-Correa/f7f362eb4db7ba5f1ab45ebb7d948d16895a76fc) on use of activated carbon from recycled PET plastic and its use to filter pollution from water.  
+[Another 2016 study](https://www.semanticscholar.org/paper/Preparation-of-high-quality-activated-carbon-from-Mendoza-Carrasco-Cuerda-Correa/f7f362eb4db7ba5f1ab45ebb7d948d16895a76fc) documents the use of activated carbon from recycled PET plastic to filter pollution from water.  
 
 ## Environmentally-Enabled Input-Output (EEIO) Tools  
 

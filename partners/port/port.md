@@ -1,8 +1,11 @@
 # Clean Port Energy
 
-Mockup using [Free Clean Energy Services](../../?partner=freeclean)  
+Mockup using [Free Clean Energy Services](../../app/?partner=freeclean)  
 <!--
 Resources for firms and community groups working on carbon capture and environmental clean-up.  
+
+Nice path to use at some point
+cleanpower.github.io/tech/portfolio
 -->
 Clean Port Energy is recognized for understanding the environmental, social, and economic drivers behind renewable energy. That’s why we offer both services and products that will continue to meet the growing demand and need for enterprise-wide sustainable practices. We have helped our clients achieve a vast range of goals in areas such as material waste processing and waste to renewable fuels.  
 
