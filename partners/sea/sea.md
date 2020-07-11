@@ -1,8 +1,5 @@
 
-MOCK-UP - We are still formailzing names and adding details.  
-<br>
-
-# GeorgiaSEA Projects 
+# Southeast Coastal Partners 
 
 <p style="margin-bottom:20px">
 Waste 2 Solutions and Free Clean Energy are working with HL Daniel on a proposal for a Brunswick&nbsp;Gasifier&nbsp;Facility.  

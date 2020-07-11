@@ -1,6 +1,6 @@
 # Clean Port Energy
 
-Mockup using [Free Clean Energy Services](../../app/?partner=freeclean)  
+Mockup using [Free Clean Energy Services](../../../app/?partner=freeclean)  
 <!--
 Resources for firms and community groups working on carbon capture and environmental clean-up.  
 
