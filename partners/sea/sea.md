@@ -25,6 +25,8 @@ Filtering pollution from water using [Activated Carbon from PET bottle waste](ht
 Step 1: Produce char at low-temperature (240° to 310°C).  
 Step 2: Activate with 800° to 950°C 15-psi steam to add pores.  
 
+### Activated Carbon from Seasonally Available Shells of Pecans and Peanuts
+
 <!-- Potential Waste-to-Energy Feedstocks -->
 
 ## Environmentally-Enabled Input-Output (EEIO) Tools  
