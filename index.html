@@ -17,9 +17,9 @@
 
 <script>
 	if (param.partner == "freeclean")  {
-		window.document.title = "GeorgiaSEA Partner: Free Clean Energy"
-		param.titleArray = ["Georgia","SEA"]; // carboncapture.energy
-		param.favicon = "/app/img/logo/favicon.png"
+		window.document.title = "Free Clean Energy - A Southeast Coastal Partner"
+		//param.titleArray = ["Georgia","SEA"]; // carboncapture.energy
+		//param.favicon = "/app/img/logo/favicon.png"
 		loadMarkdown("partners/energy/energy.md", "readmeDiv", "_parent");
 		$(".freeclean").show();
 	} else if (param.partner == "cleanport") { // International
@@ -30,9 +30,9 @@
 		loadMarkdown("partners/port/port.md", "readmeDiv", "_parent");
 		$(".cleanport").show();
 	} else {
-		window.document.title = "GeorgiaSEA - Southeast Environment Association"
-		param.titleArray = ["Georgia","SEA"]; // carboncapture.energy
-		param.favicon = "/app/img/logo/favicon.png"
+		window.document.title = "GeorgiaSEA - Southeast Coastal Partners"
+		//param.titleArray = ["Georgia","SEA"]; // carboncapture.energy
+		//param.favicon = "/app/img/logo/favicon.png"
 		loadMarkdown("partners/sea/sea.md", "readmeDiv", "_parent");
 		$(".sea").show();
 	}
@@ -125,6 +125,25 @@
 	    font-size: 18px;
 	  }
 	}
+	.lower-right-text {
+		position: absolute;
+		right: 50px;
+		bottom: 20px;
+		padding-left: 40px;
+		color: #fff;
+		font-size: 22px;
+		font-weight: 200;
+	}
+	.lower-right-text a {
+		color: #fff;
+	}
+	img {
+	  opacity: 0.7;
+	}
+
+	img:hover {
+	  opacity: 1.0;
+	}
 </style>
 </head>
 
@@ -135,12 +154,20 @@
 -->
 
 <div style="position:relative; display:none" class="sea freeclean herobox">
-	<div class="bgimg" style="background-image: url('partners/sea/img/hero/ocean-pier-crop.jpg');">
-		<img src="partners/sea/img/hero/ocean-pier-crop.jpg" style="opacity:0;width:100%">
+	<div class="bgimg" style="background-image: url('partners/sea/img/hero/ocean-pier-crop-sm.jpg');">
+		<img src="partners/sea/img/hero/ocean-pier-crop-sm.jpg" style="opacity:0;width:100%">
 
+		
+		<!--
 		<div class="bgcaption sea freeclean" style="display:none">
-		    <span class="border" style="padding-leftX:28px">Southeast Environment Association&nbsp;(SEA)</span>
+		    <span class="border" style="padding-leftX:28px">Clean Port Energy</span>
 		</div>
+		-->
+
+			<div class='lower-right-text'>
+				<!--Southeast Environment Association&nbsp;(SEA)-->
+				<a href="http://model.georgia.org">model.georgia.org</a>
+			</div>
 
 	</div>
 </div>
@@ -159,9 +186,13 @@
 	-->
 </div>
 
-<div class="content contentpadding" style="padding-top:30px">
+<div class="content contentpadding" style="padding-top:30px;">
 
-	<div class="freeclean sea rightside narrowscreen" style="display:none">
+	<div class="narrowscreen" style="width:55%;float:left;padding-right:50px">
+		<div id="readmeDiv"></div>
+	</div>
+	
+	<div class="freeclean sea narrowscreen" style="width:45%;float:left;display:none;padding-top:15px">
 
 		
 		<div style="width:50%; float:left; padding-right:25px" class="narrowscreen">
@@ -205,10 +236,7 @@
 	    <br><br>
 	</div>
 
-	<div class="columnDiv" id="readmeDiv" style="padding-right:20px">
-		<!-- Content of README.md file -->
-	</div>
-	<br><br>
+	<div style="clear:both"></div><br>
 
 </div>
 
